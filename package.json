@@ -1,0 +1,23 @@
+{
+  "name": "site-leo",
+  "version": "1.0.0",
+  "description": "Leo Web Site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomdesouza/site-leo.git"
+  },
+  "keywords": [
+    "site",
+    "node"
+  ],
+  "author": "leomdesouza.lm@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leomdesouza/site-leo/issues"
+  },
+  "homepage": "https://github.com/leomdesouza/site-leo#readme"
+}
