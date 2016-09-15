@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/leomdesouza/site-leo/issues"
   },
-  "homepage": "https://github.com/leomdesouza/site-leo#readme"
+  "homepage": "https://github.com/leomdesouza/site-leo#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
