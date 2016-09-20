@@ -2,9 +2,12 @@
 
 var express = require('express');
 var config = require('./config.js');
+var morgan = require('morgan');
 
 var app = express();
 
+
+app.use(morgan('dev'));
 app.use(express.static(__dirname + '/views/home'));
 
 app.get('/', function(req, res){
